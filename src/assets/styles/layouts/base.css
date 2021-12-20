@@ -1,0 +1,27 @@
+.tw-header {
+  @apply flex m-6 p-1 sm:flex-row flex-col;
+}
+
+.titol {
+  @apply font-semibold text-3xl my-5;
+}
+
+.cos {
+  @apply text-justify leading-normal;
+}
+
+.img {
+  @apply text-center m-auto my-5;
+}
+
+.p {
+  @apply my-5;
+}
+
+.footer {
+  @apply m-5 sm:grid sm:grid-cols-3 flex flex-col;
+}
+
+.menu {
+  @apply sm:grid sm:grid-cols-2 sm:grid-rows-2 flex flex-col m-5;
+}

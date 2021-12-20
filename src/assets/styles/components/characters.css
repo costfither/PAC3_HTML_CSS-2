@@ -1,0 +1,6 @@
+.characters {
+  @apply grid grid-cols-1 my-10 sm:grid-cols-4;
+}
+.actor-img {
+  @apply rounded-lg;
+}
